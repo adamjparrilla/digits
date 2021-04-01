@@ -20,9 +20,9 @@ class ContactAdmin extends React.Component {
             {this.props.contact.description}
           </Card.Description>
         </Card.Content>
-        <Card.Contect extra>
+        <Card.Content extra>
           {this.props.contact.owner}
-        </Card.Contect>
+        </Card.Content>
       </Card>
     );
   }
