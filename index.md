@@ -1,4 +1,6 @@
-<img src="doc/landing.png">
+## Digits
+
+<img src="doc/Landing.png">
 
 Meteor-application-template-react is a sample Meteor 2.0 application that illustrates:
 
